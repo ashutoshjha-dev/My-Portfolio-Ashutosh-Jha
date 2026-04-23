@@ -9,7 +9,7 @@
 
 This repository contains the **source code for my personal portfolio website** — a fully responsive single-page application designed to showcase my skills, projects, and journey as a **"Data Weaver"** at the intersection of full-stack development and machine learning.
 
-➡️ **[View Live Demo](https://legendaryslayer.github.io/My-Portfolio-Ashutosh-Jha/)** 
+➡️ **[View Live Demo](https://ashutoshjha-dev.github.io/My-Portfolio-Ashutosh-Jha/)** 
 
 ---
 
